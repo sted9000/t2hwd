@@ -46,9 +46,10 @@ colortheme = "white" # dark, light, white, or classic
 rss = true # generate rss feed. default value is false
 googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
 showAllPostsArchive = false # default
+logo = "/images/logo.png"
 
 # Home page settings
-description = "Some suggest only working a half-day on Friday. Others offer four hours of work per day as sufficient ([Tim Kreider](https://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/)). I think those are outdated and meek attempts. We live in a world of abundant financial opportunity. My hypothesis is that if we labor with spirit, philosophy, and a cup of tea, two hours of work per day should be more than enough to avoid modern slavery."
+description = "Perspectives on how much one should _work_ are all over the board: Most work nine-to-five, some suggests the possibility of a [four hour work week](https://www.amazon.com/4-hour-Paperback-author-Timothy-Ferriss/dp/B00BDXF6KC/ref=sr_1_2?crid=77NYW0GY2QVB&keywords=four+hour+work+week&qid=1638757969&sprefix=four+hour+w%2Caps%2C168&sr=8-2), increasingly many are gig-workers, some are work-a-holics, and yet others [feel like four or five hours is enough to earn your stay on the planet for one more day](https://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/). This site is a my take on _work_, which I define as trading trading time now for money now. It feels to me that we live in a world of financial and opportunity abundance. And my guess is that if we labor with spirit, an open mind, and a cup of tea, then two hours of work per day should be more than enough a avoid ever getting a real job!"
 mainSection = "posts" # your main section
 showAllPostsOnHomePage = false # default
 postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
